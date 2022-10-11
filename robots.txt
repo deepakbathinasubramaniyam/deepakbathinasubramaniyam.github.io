@@ -1,2 +1,2 @@
-# robots.txt for https://mr-arivaali.github.io/
-Sitemap: https://mr-arivaali.github.io/sitemap.xml
+# robots.txt for https://deepakbathinasubramaniyam.github.io/
+Sitemap: https://deepakbathinasubramaniyam.github.io/sitemap.xml
